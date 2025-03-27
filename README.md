@@ -1,6 +1,6 @@
 # 🌦️ World Capitals Weather App
 
-A sleek, AI-assisted web app that displays **real-time weather data** for all European capital cities using the **free and privacy-friendly [Open-Meteo API](https://open-meteo.com)**.
+A sleek, AI-assisted web app that displays **real-time weather data** for world capital cities using the **free and privacy-friendly [Open-Meteo API](https://open-meteo.com)**.  
 
 🔗 **Live Demo:** [comforting-kelpie-a312e4.netlify.app](https://comforting-kelpie-a312e4.netlify.app/)
 

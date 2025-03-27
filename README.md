@@ -8,7 +8,7 @@ A sleek, AI-assisted web app that displays **real-time weather data** for world 
 
 ## ✨ Features
 
-- 🏙️ Weather for 40+ European capital cities  
+- 🏙️ Weather for 40+ capital cities  
 - 📡 Real-time weather updates via Open-Meteo API  
 - 🌡️ Temperature, wind speed, and condition overview  
 - 🎨 Clean, responsive design (mobile-first)  
